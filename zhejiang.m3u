@@ -91,9 +91,9 @@ http://192.168.1.1:6688/udp/233.50.202.42:5140
 http://192.168.1.1:6688/udp/233.50.200.175:5140
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xuandong.png" group-title="卫视高清",哈哈炫动
 http://192.168.1.1:6688/udp/233.50.200.167:5140
-#EXTINF:-1 tvg-id="97" tvg-name="中国教育一套" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="卫视高清",中国教育一套
+#EXTINF:-1 tvg-id="97" tvg-name="中国教育一套" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视高清",中国教育一套
 http://192.168.1.1:6688/udp/233.50.200.169:5140
-#EXTINF:-1 tvg-id="97" tvg-name="中国教育四套" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B24%E5%8F%B0.png" group-title="卫视高清",中国教育四套
+#EXTINF:-1 tvg-id="97" tvg-name="中国教育四套" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="卫视高清",中国教育四套
 http://192.168.1.1:6688/udp/233.50.200.162:5140
 
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视标清",内蒙古卫视
@@ -113,9 +113,9 @@ http://192.168.1.1:6688/udp/233.50.201.57:5140
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingkatong.png" group-title="卫视标清",金鹰卡通
 http://192.168.1.1:6688/udp/233.50.201.73:5140
 
-#EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://yourhost/iptv-logo/fenghuangzhongwen.png" group-title="国际标清",凤凰卫视中文
+#EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="国际标清",凤凰卫视中文
 http://192.168.1.1:6688/udp/233.50.200.191:5140
-#EXTINF:-1 tvg-id="82" tvg-name="凤凰卫视资讯" tvg-logo="http://yourhost/iptv-logo/fenghuangzixun.png" group-title="国际标清",凤凰卫视资讯
+#EXTINF:-1 tvg-id="82" tvg-name="凤凰卫视资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="国际标清",凤凰卫视资讯
 http://192.168.1.1:6688/udp/233.50.200.192:5140
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="国际标清",CGTN
@@ -196,9 +196,9 @@ http://192.168.1.1:6688/rtp/233.50.201.159:5140
 
 #EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://yourhost/iptv-logo/yybb.jpg" group-title="数字付费",优优宝贝
 http://192.168.1.1:6688/udp/233.50.202.24:5140
-#EXTINF:-1 tvg-id="91" tvg-name="新视觉HD" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",新视觉HD
+#EXTINF:-1 tvg-id="91" tvg-name="新视觉HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="数字付费",新视觉HD
 http://192.168.1.1:6688/udp/233.50.201.244:5140
-#EXTINF:-1 tvg-id="56" tvg-name="欢笑剧场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",欢笑剧场
+#EXTINF:-1 tvg-id="56" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="数字付费",欢笑剧场
 http://192.168.1.1:6688/udp/233.50.201.189:5140
 #EXTINF:-1 tvg-id="57" tvg-name="都市剧场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",都市剧场
 http://192.168.1.1:6688/udp/233.50.201.190:5140
@@ -206,17 +206,17 @@ http://192.168.1.1:6688/udp/233.50.201.190:5140
 http://192.168.1.1:6688/udp/233.50.201.191:5140
 #EXTINF:-1 tvg-id="51" tvg-name="动漫秀场" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",动漫秀场
 http://192.168.1.1:6688/udp/233.50.201.184:5140
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://yourhost/iptv-logo/youxifengyun.png" group-title="数字付费",游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字付费",游戏风云
 http://192.168.1.1:6688/udp/233.50.201.183:5140
-#EXTINF:-1 tvg-id="52" tvg-name="乐游" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",乐游
+#EXTINF:-1 tvg-id="52" tvg-name="乐游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字付费",乐游
 http://192.168.1.1:6688/udp/233.50.201.185:5140
 #EXTINF:-1 tvg-id="53" tvg-name="金色学堂" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",金色学堂
 http://192.168.1.1:6688/udp/233.50.201.186:5140
-#EXTINF:-1 tvg-id="54" tvg-name="生活时尚" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",生活时尚
+#EXTINF:-1 tvg-id="54" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="数字付费",生活时尚
 http://192.168.1.1:6688/udp/233.50.201.187:5140
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://yourhost/iptv-logo/chapindao.png" group-title="数字付费",茶频道
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="数字付费",茶频道
 http://192.168.1.1:6688/udp/233.50.201.188:5140
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://yourhost/iptv-logo/kuailechuidiao.png" group-title="数字付费",快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="数字付费",快乐垂钓
 http://192.168.1.1:6688/udp/233.50.201.109:5140
 #EXTINF:-1 tvg-id="95" tvg-name="好易购" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="电视购物",好易购
 http://192.168.1.1:6688/udp/233.50.201.248:5140
