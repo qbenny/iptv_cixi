@@ -4,12 +4,12 @@
 
 抓包时间20231126，默认格式为udpxyd代理地址
 
-1.udpxy代理地址请改成自己的私网地址和端口
-
-2.logo只添加了文件名，具体网络的访问方式请修改成自己的页面
-
-3.频道编号是适配于 http://epg.51zmt.top:8000/ 的节目预告单（部分央视和卫视频道，地方频道他这里没有所以没适配）
+频道编号是适配于 http://epg.51zmt.top:8000/ 的节目预告单
 
 https://guihet.com/tvlistconvert.html
 
-央视及各省卫视EPG：http://epg.51zmt.top:8000/cc.xml
+节目列表：
+https://raw.githubusercontent.com/qbenny/iptv_cixi/refs/heads/main/zhejiang.m3u
+
+央视及各省卫视EPG：
+http://epg.51zmt.top:8000/cc.xml
