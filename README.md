@@ -4,7 +4,9 @@
 
 2025/7/31更新4K频道
 
-频道编号是适配于 http://epg.51zmt.top:8000/ 的节目预告单
+适配节目预告单
+http://epg.51zmt.top:8000/
+https://epg.112114.xyz/
 
 https://guihet.com/tvlistconvert.html
 
