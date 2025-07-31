@@ -13,5 +13,6 @@ https://guihet.com/tvlistconvert.html
 节目列表：
 https://raw.githubusercontent.com/qbenny/iptv_cixi/refs/heads/main/zhejiang.m3u
 
-央视及各省卫视EPG：
-http://epg.51zmt.top:8000/cc.xml
+EPG：
+http://epg.51zmt.top:8000/e.xml
+https://epg.112114.xyz/pp.xml
