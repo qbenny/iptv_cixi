@@ -123,6 +123,8 @@ http://192.168.1.1:6688/udp/233.50.202.43:5140/
 http://192.168.1.1:6688/udp/233.50.202.44:5140/
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视高清",宁夏卫视
 http://192.168.1.1:6688/udp/233.50.202.45:5140/
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视高清",新疆卫视
+http://192.168.1.1:6688/udp/233.50.202.46:5140/
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xuandong.png" group-title="卫视高清",哈哈炫动
 http://192.168.1.1:6688/udp/233.50.200.167:5140
 #EXTINF:-1 tvg-id="97" tvg-name="中国教育一套" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视高清",中国教育一套
@@ -282,4 +284,3 @@ http://192.168.1.1:6688/udp/233.50.201.84:5140
 http://192.168.1.1:6688/udp/233.50.201.85:5140
 #EXTINF:-1 tvg-id="60" tvg-name="民生资讯广播" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="广播频道",民生资讯广播
 http://192.168.1.1:6688/udp/233.50.201.86:5140
-
