@@ -233,6 +233,8 @@ http://192.168.1.1:6688/udp/233.50.201.191:5140
 http://192.168.1.1:6688/udp/233.50.201.184:5140
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="数字付费",游戏风云
 http://192.168.1.1:6688/udp/233.50.201.183:5140
+#EXTINF:-1 tvg-id="51" tvg-name="卡酷少儿" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",卡酷少儿
+http://192.168.1.1:6688/udp/233.50.202.33:5140/
 #EXTINF:-1 tvg-id="52" tvg-name="乐游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="数字付费",乐游
 http://192.168.1.1:6688/udp/233.50.201.185:5140
 #EXTINF:-1 tvg-id="53" tvg-name="金色学堂" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="数字付费",金色学堂
